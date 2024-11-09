@@ -16,13 +16,13 @@
     <hr>
      <h2>EDUCATION : </h2>
      <ul>
-     <li>Bachelor of technology</li>
+     <li>Bachelor Of Technology</li>
      <ul>
        <li> Pallavi Engineering College.</li>
      </ul>  
      </ul> 
      <ul>
-    <li>INTERMIDEATE</li>
+    <li>Intermediate</li>
      <ul>
        <li> Sri Gayatri Junior College.</li>
     </ul>
