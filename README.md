@@ -16,7 +16,7 @@
     <hr>
      <h2>EDUCATION : </h2>
      <ul>
-     <li>Bachelor</li>
+     <li>Bachelor of</li>
      <ul>
        <li> Pallavi Engineering College.</li>
      </ul>  
